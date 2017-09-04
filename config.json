@@ -1,0 +1,7 @@
+{
+    "port": "8080",
+    "address": "127.0.0.1",
+    "hostEmail": "host email",
+    "hostEmailPassword": "host email password",
+    "recieverEmail": "reciever email"
+}
